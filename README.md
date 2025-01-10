@@ -25,5 +25,11 @@ To run this project on your local machine, follow these steps:
 
     https://expansestracking.netlify.app/
 
-Enjoy 😊❤️
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   
 
