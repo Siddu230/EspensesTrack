@@ -12,8 +12,11 @@ A simple and interactive web-based Expenses Tracker application built with HTML,
 ## Technologies Used 
 
 - **HTML**: For structuring the content of the web pages.
+-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 - **CSS**: For styling the application, including layout, colors, and responsiveness.
+-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 - **JavaScript**: To handle the interactivity and logic for adding/removing expenses and updating the summary dynamically.
+- <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
 ## Getting Started
 
