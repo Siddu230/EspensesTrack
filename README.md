@@ -31,5 +31,6 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
+   https://github.com/Siddu230/ExpensesTrack.git
    
 
